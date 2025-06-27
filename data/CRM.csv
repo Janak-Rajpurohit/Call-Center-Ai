@@ -1,0 +1,81 @@
+Order_ID,Customer_ID,Product_ID,Product_Name,Quantity,Order_Date,Delivery_Date,Order_Status,Payment_Method,Total_Amount,Shipping_Address,City,State,Country,Postal_Code,Customer_Email,Customer_Phone
+ORD001,CUST001,PROD001,Wireless Mouse,2,11/1/2024,11/5/2024,Delivered,Credit Card,1200,123 Main St,Bangalore,Karnataka,India,560001,customer1@email.com,+91 9876543210
+ORD002,CUST002,PROD002,Smartphone,1,11/2/2024,11/7/2024,Delivered,Debit Card,20000,456 Oak Rd,Chennai,Tamil Nadu,India,600001,customer2@email.com,+91 8765432109
+ORD003,CUST003,PROD003,Laptop,1,11/3/2024,11/10/2024,In Transit,Credit Card,45000,789 Pine Ave,Mumbai,Maharashtra,India,400001,customer3@email.com,+91 7654321098
+ORD004,CUST001,PROD004,Headphones,1,11/4/2024,11/9/2024,Delivered,UPI,1500,123 Main St,Bangalore,Karnataka,India,560001,customer1@email.com,+91 9876543210
+ORD005,CUST004,PROD005,Smartwatch,1,11/5/2024,11/12/2024,Delivered,Debit Card,8000,321 Maple Dr,Hyderabad,Telangana,India,500001,customer4@email.com,+91 6543210987
+ORD006,CUST002,PROD006,Tablet,1,11/6/2024,11/13/2024,In Transit,Credit Card,12000,456 Oak Rd,Chennai,Tamil Nadu,India,600001,customer2@email.com,+91 8765432109
+ORD007,CUST005,PROD007,Wireless Charger,2,11/7/2024,11/14/2024,Delivered,UPI,2000,654 Birch Ln,Delhi,Delhi,India,110001,customer5@email.com,+91 5432109876
+ORD008,CUST003,PROD008,Monitor,1,11/8/2024,11/15/2024,Delivered,Debit Card,25000,789 Pine Ave,Mumbai,Maharashtra,India,400001,customer3@email.com,+91 7654321098
+ORD009,CUST006,PROD009,Printer,1,11/9/2024,11/16/2024,In Transit,Credit Card,10000,135 Cedar Blvd,Kolkata,West Bengal,India,700001,customer6@email.com,+91 4321098765
+ORD010,CUST007,PROD010,Keyboard,1,11/10/2024,11/17/2024,Delivered,Debit Card,2500,987 Elm St,Noida,Uttar Pradesh,India,201301,customer7@email.com,+91 3210987654
+ORD011,CUST008,PROD011,Speaker,1,11/11/2024,11/18/2024,Delivered,UPI,3000,246 Oak Ln,Pune,Maharashtra,India,411001,customer8@email.com,+91 2109876543
+ORD012,CUST009,PROD012,Camera,1,11/12/2024,11/19/2024,In Transit,Credit Card,35000,753 Birch Ave,Surat,Gujarat,India,395001,customer9@email.com,+91 1098765432
+ORD013,CUST010,PROD013,Microwave,1,11/13/2024,11/20/2024,Delivered,Debit Card,6000,864 Pine St,Jaipur,Rajasthan,India,302001,customer10@email.com,+91 9876543123
+ORD014,CUST001,PROD014,Air Conditioner,1,11/14/2024,11/21/2024,Delivered,Credit Card,30000,123 Main St,Bangalore,Karnataka,India,560001,customer1@email.com,+91 9876543210
+ORD015,CUST002,PROD015,Refrigerator,1,11/15/2024,11/22/2024,Delivered,UPI,22000,456 Oak Rd,Chennai,Tamil Nadu,India,600001,customer2@email.com,+91 8765432109
+ORD016,CUST003,PROD016,Vacuum Cleaner,1,11/16/2024,11/23/2024,In Transit,Debit Card,5000,789 Pine Ave,Mumbai,Maharashtra,India,400001,customer3@email.com,+91 7654321098
+ORD017,CUST004,PROD017,Blender,1,11/17/2024,11/24/2024,Delivered,Credit Card,3500,321 Maple Dr,Hyderabad,Telangana,India,500001,customer4@email.com,+91 6543210987
+ORD018,CUST005,PROD018,Table Lamp,1,11/18/2024,11/25/2024,Delivered,UPI,1500,654 Birch Ln,Delhi,Delhi,India,110001,customer5@email.com,+91 5432109876
+ORD019,CUST006,PROD019,Electric Kettle,1,11/19/2024,11/26/2024,Delivered,Debit Card,2500,135 Cedar Blvd,Kolkata,West Bengal,India,700001,customer6@email.com,+91 4321098765
+ORD020,CUST007,PROD020,Food Processor,1,11/20/2024,11/27/2024,In Transit,Credit Card,7000,987 Elm St,Noida,Uttar Pradesh,India,201301,customer7@email.com,+91 3210987654
+ORD021,CUST008,PROD021,Coffee Maker,1,11/21/2024,11/28/2024,Delivered,Debit Card,3500,246 Oak Ln,Pune,Maharashtra,India,411001,customer8@email.com,+91 2109876543
+ORD022,CUST009,PROD022,Electric Grill,1,11/22/2024,11/29/2024,Delivered,Credit Card,4000,753 Birch Ave,Surat,Gujarat,India,395001,customer9@email.com,+91 1098765432
+ORD023,CUST010,PROD023,Toaster,1,11/23/2024,11/30/2024,In Transit,UPI,1200,864 Pine St,Jaipur,Rajasthan,India,302001,customer10@email.com,+91 9876543123
+ORD024,CUST001,PROD024,Recliner Chair,1,11/24/2024,12/1/2024,Delivered,Credit Card,15000,123 Main St,Bangalore,Karnataka,India,560001,customer1@email.com,+91 9876543210
+ORD025,CUST002,PROD025,Standing Fan,1,11/25/2024,12/2/2024,Delivered,Debit Card,3000,456 Oak Rd,Chennai,Tamil Nadu,India,600001,customer2@email.com,+91 8765432109
+ORD026,CUST003,PROD026,Smart TV,1,11/26/2024,12/3/2024,In Transit,UPI,35000,789 Pine Ave,Mumbai,Maharashtra,India,400001,customer3@email.com,+91 7654321098
+ORD027,CUST004,PROD027,Air Purifier,1,11/27/2024,12/4/2024,Delivered,Credit Card,8000,321 Maple Dr,Hyderabad,Telangana,India,500001,customer4@email.com,+91 6543210987
+ORD028,CUST005,PROD028,Water Purifier,1,11/28/2024,12/5/2024,Delivered,Debit Card,12000,654 Birch Ln,Delhi,Delhi,India,110001,customer5@email.com,+91 5432109876
+ORD029,CUST006,PROD029,Electric Fan,1,11/29/2024,12/6/2024,Delivered,UPI,2500,135 Cedar Blvd,Kolkata,West Bengal,India,700001,customer6@email.com,+91 4321098765
+ORD030,CUST007,PROD030,Induction Cooker,1,11/30/2024,12/7/2024,Delivered,Credit Card,6000,987 Elm St,Noida,Uttar Pradesh,India,201301,customer7@email.com,+91 3210987654
+ORD031,CUST008,PROD031,Juicer,1,12/1/2024,12/8/2024,Delivered,Debit Card,4000,246 Oak Ln,Pune,Maharashtra,India,411001,customer8@email.com,+91 2109876543
+ORD032,CUST009,PROD032,Washing Machine,1,12/2/2024,12/9/2024,In Transit,Credit Card,25000,753 Birch Ave,Surat,Gujarat,India,395001,customer9@email.com,+91 1098765432
+ORD033,CUST010,PROD033,Pressure Cooker,1,12/3/2024,12/10/2024,Delivered,UPI,1500,864 Pine St,Jaipur,Rajasthan,India,302001,customer10@email.com,+91 9876543123
+ORD034,CUST001,PROD034,Fridge,1,12/4/2024,12/11/2024,Delivered,Credit Card,30000,123 Main St,Bangalore,Karnataka,India,560001,customer1@email.com,+91 9876543210
+ORD035,CUST002,PROD035,Air Fryer,1,12/5/2024,12/12/2024,Delivered,Debit Card,5000,456 Oak Rd,Chennai,Tamil Nadu,India,600001,customer2@email.com,+91 8765432109
+ORD036,CUST003,PROD036,Electric Stove,1,12/6/2024,12/13/2024,Delivered,UPI,7000,789 Pine Ave,Mumbai,Maharashtra,India,400001,customer3@email.com,+91 7654321098
+ORD037,CUST004,PROD037,Smart Bulb,2,12/7/2024,12/14/2024,In Transit,Credit Card,2000,321 Maple Dr,Hyderabad,Telangana,India,500001,customer4@email.com,+91 6543210987
+ORD038,CUST005,PROD038,Electric Heater,1,12/8/2024,12/15/2024,Delivered,Debit Card,6000,654 Birch Ln,Delhi,Delhi,India,110001,customer5@email.com,+91 5432109876
+ORD039,CUST006,PROD039,Standing Desk,1,12/9/2024,12/16/2024,Delivered,UPI,18000,135 Cedar Blvd,Kolkata,West Bengal,India,700001,customer6@email.com,+91 4321098765
+ORD040,CUST007,PROD040,Smart Thermostat,1,12/10/2024,12/17/2024,Delivered,Credit Card,10000,987 Elm St,Noida,Uttar Pradesh,India,201301,customer7@email.com,+91 3210987654
+ORD041,CUST008,PROD041,Blender,1,12/11/2024,12/18/2024,Delivered,Debit Card,4500,246 Oak Ln,Pune,Maharashtra,India,411001,customer8@email.com,+91 2109876543
+ORD042,CUST009,PROD042,Food Processor,1,12/12/2024,12/19/2024,Delivered,Credit Card,8000,753 Birch Ave,Surat,Gujarat,India,395001,customer9@email.com,+91 1098765432
+ORD043,CUST010,PROD043,Stand Mixer,1,12/13/2024,12/20/2024,Delivered,UPI,10000,864 Pine St,Jaipur,Rajasthan,India,302001,customer10@email.com,+91 9876543123
+ORD044,CUST001,PROD044,Iron,1,12/14/2024,12/21/2024,In Transit,Credit Card,2000,123 Main St,Bangalore,Karnataka,India,560001,customer1@email.com,+91 9876543210
+ORD045,CUST002,PROD045,Hair Dryer,1,12/15/2024,12/22/2024,Delivered,Debit Card,2500,456 Oak Rd,Chennai,Tamil Nadu,India,600001,customer2@email.com,+91 8765432109
+ORD046,CUST003,PROD046,Shaver,1,12/16/2024,12/23/2024,Delivered,UPI,3000,789 Pine Ave,Mumbai,Maharashtra,India,400001,customer3@email.com,+91 7654321098
+ORD047,CUST004,PROD047,Coffee Grinder,1,12/17/2024,12/24/2024,Delivered,Credit Card,1500,321 Maple Dr,Hyderabad,Telangana,India,500001,customer4@email.com,+91 6543210987
+ORD048,CUST005,PROD048,Hand Mixer,1,12/18/2024,12/25/2024,In Transit,Debit Card,4000,654 Birch Ln,Delhi,Delhi,India,110001,customer5@email.com,+91 5432109876
+ORD049,CUST006,PROD049,Car Vacuum,1,12/19/2024,12/26/2024,Delivered,UPI,3500,135 Cedar Blvd,Kolkata,West Bengal,India,700001,customer6@email.com,+91 4321098765
+ORD050,CUST007,PROD050,Camera Stand,1,12/20/2024,12/27/2024,Delivered,Credit Card,3000,987 Elm St,Noida,Uttar Pradesh,India,201301,customer7@email.com,+91 3210987654
+ORD051,CUST008,PROD051,Lamp,1,12/21/2024,12/28/2024,Delivered,Debit Card,1500,246 Oak Ln,Pune,Maharashtra,India,411001,customer8@email.com,+91 2109876543
+ORD052,CUST009,PROD052,Ceiling Fan,1,12/22/2024,12/29/2024,Delivered,Credit Card,3500,753 Birch Ave,Surat,Gujarat,India,395001,customer9@email.com,+91 1098765432
+ORD053,CUST010,PROD053,Portable AC,1,12/23/2024,12/30/2024,Delivered,UPI,22000,864 Pine St,Jaipur,Rajasthan,India,302001,customer10@email.com,+91 9876543123
+ORD054,CUST001,PROD054,Gas Stove,1,12/24/2024,12/31/2024,Delivered,Credit Card,7000,123 Main St,Bangalore,Karnataka,India,560001,customer1@email.com,+91 9876543210
+ORD055,CUST002,PROD055,Heater,1,12/25/2024,12/31/2024,Delivered,Debit Card,3500,456 Oak Rd,Chennai,Tamil Nadu,India,600001,customer2@email.com,+91 8765432109
+ORD056,CUST003,PROD056,Electric Grill,1,12/26/2024,12/31/2024,Delivered,UPI,5000,789 Pine Ave,Mumbai,Maharashtra,India,400001,customer3@email.com,+91 7654321098
+ORD057,CUST004,PROD057,Smart Watch,1,12/27/2024,1/3/2025,In Transit,Credit Card,8000,321 Maple Dr,Hyderabad,Telangana,India,500001,customer4@email.com,+91 6543210987
+ORD058,CUST005,PROD058,Mini Fridge,1,12/28/2024,1/4/2025,Delivered,Debit Card,6000,654 Birch Ln,Delhi,Delhi,India,110001,customer5@email.com,+91 5432109876
+ORD059,CUST006,PROD059,Coffee Maker,1,12/29/2024,1/5/2025,Delivered,UPI,4000,135 Cedar Blvd,Kolkata,West Bengal,India,700001,customer6@email.com,+91 4321098765
+ORD060,CUST007,PROD060,Smart TV,1,12/30/2024,1/6/2025,Delivered,Credit Card,35000,987 Elm St,Noida,Uttar Pradesh,India,201301,customer7@email.com,+91 3210987654
+ORD061,CUST008,PROD061,Refrigerator,1,12/31/2024,1/7/2025,Delivered,Debit Card,25000,246 Oak Ln,Pune,Maharashtra,India,411001,customer8@email.com,+91 2109876543
+ORD062,CUST009,PROD062,Electric Kettle,1,1/1/2025,1/8/2025,In Transit,Credit Card,2000,753 Birch Ave,Surat,Gujarat,India,395001,customer9@email.com,+91 1098765432
+ORD063,CUST010,PROD063,Laptop Stand,1,1/2/2025,1/9/2025,Delivered,UPI,1500,864 Pine St,Jaipur,Rajasthan,India,302001,customer10@email.com,+91 9876543123
+ORD064,CUST001,PROD064,Tablet,1,1/3/2025,1/10/2025,Delivered,Credit Card,10000,123 Main St,Bangalore,Karnataka,India,560001,customer1@email.com,+91 9876543210
+ORD065,CUST002,PROD065,Induction Cooktop,1,1/4/2025,1/11/2025,Delivered,Debit Card,8000,456 Oak Rd,Chennai,Tamil Nadu,India,600001,customer2@email.com,+91 8765432109
+ORD066,CUST003,PROD066,Wall Fan,1,1/5/2025,1/12/2025,Delivered,UPI,2500,789 Pine Ave,Mumbai,Maharashtra,India,400001,customer3@email.com,+91 7654321098
+ORD067,CUST004,PROD067,Microwave Oven,1,1/6/2025,1/13/2025,Delivered,Credit Card,12000,321 Maple Dr,Hyderabad,Telangana,India,500001,customer4@email.com,+91 6543210987
+ORD068,CUST005,PROD068,Mobile Stand,1,1/7/2025,1/14/2025,Delivered,Debit Card,800,654 Birch Ln,Delhi,Delhi,India,110001,customer5@email.com,+91 5432109876
+ORD069,CUST006,PROD069,Portable Speaker,1,1/8/2025,1/15/2025,Delivered,UPI,1500,135 Cedar Blvd,Kolkata,West Bengal,India,700001,customer6@email.com,+91 4321098765
+ORD070,CUST007,PROD070,Tablet Stand,1,1/9/2025,1/16/2025,Delivered,Credit Card,1200,987 Elm St,Noida,Uttar Pradesh,India,201301,customer7@email.com,+91 3210987654
+ORD071,CUST008,PROD071,Smart Lock,1,1/10/2025,1/17/2025,Delivered,Debit Card,5000,246 Oak Ln,Pune,Maharashtra,India,411001,customer8@email.com,+91 2109876543
+ORD072,CUST009,PROD072,Deep Fryer,1,1/11/2025,1/18/2025,Delivered,Credit Card,3500,753 Birch Ave,Surat,Gujarat,India,395001,customer9@email.com,+91 1098765432
+ORD073,CUST010,PROD073,Smartphone,1,1/12/2025,1/19/2025,Delivered,UPI,20000,864 Pine St,Jaipur,Rajasthan,India,302001,customer10@email.com,+91 9876543123
+ORD074,CUST001,PROD074,Electric Fan,1,1/13/2025,1/20/2025,In Transit,Credit Card,2500,123 Main St,Bangalore,Karnataka,India,560001,customer1@email.com,+91 9876543210
+ORD075,CUST002,PROD075,Kitchen Chimney,1,1/14/2025,1/21/2025,Delivered,Debit Card,15000,456 Oak Rd,Chennai,Tamil Nadu,India,600001,customer2@email.com,+91 8765432109
+ORD076,CUST003,PROD076,Power Bank,2,1/15/2025,1/22/2025,Delivered,UPI,3000,789 Pine Ave,Mumbai,Maharashtra,India,400001,customer3@email.com,+91 7654321098
+ORD077,CUST004,PROD077,Electric Cooker,1,1/16/2025,1/23/2025,Delivered,Credit Card,5000,321 Maple Dr,Hyderabad,Telangana,India,500001,customer4@email.com,+91 6543210987
+ORD078,CUST005,PROD078,Induction Cooker,1,1/17/2025,1/24/2025,Delivered,Debit Card,6000,654 Birch Ln,Delhi,Delhi,India,110001,customer5@email.com,+91 5432109876
+ORD079,CUST006,PROD079,Hair Straightener,1,1/18/2025,1/25/2025,Delivered,UPI,2500,135 Cedar Blvd,Kolkata,West Bengal,India,700001,customer6@email.com,+91 4321098765
+ORD080,CUST007,PROD080,Food Processor,1,1/19/2025,1/26/2025,Delivered,Credit Card,12000,987 Elm St,Noida,Uttar Pradesh,India,201301,customer7@email.com,+91 3210987654

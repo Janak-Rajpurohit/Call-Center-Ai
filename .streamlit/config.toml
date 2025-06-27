@@ -1,0 +1,12 @@
+[theme]
+primaryColor="#7F8CAA"
+backgroundColor="#333446"
+secondaryBackgroundColor="#252532"
+textColor="#EAEFEF"
+font="sans serif"
+
+[ui]
+# Completely hide all default UI elements
+hideMenu = true
+hideToolbar = true
+hideTopBar = true              # Hides deploy button and settings
